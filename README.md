@@ -1,6 +1,6 @@
 ![Github Profile Header](header.png)
 
-I'm a Front End Developer, Content Creator, Technical Writer, and technology enthusiast. I am passionate about the human experience and I believe that humans are more than just their relationships with technology. I am interested in Human Experience Design rather User Experience Design. Human Experience Design considers the needs of users, customers, active stakeholders & passive stakeholders.
+I'm a technical writer, content creator, front-end developer, and technology enthusiast. I am passionate about the human experience and I believe that humans are more than just their relationships with technology. I am interested in Human Experience Design rather than User Experience Design.  Human Experience Design considers the needs of users, customers, active stakeholders & passive stakeholders.
 
 When I'm not developing and building things, you can find me running, hiking, cooking, spending time with my family or tossing the ball with my dog "Waldo".
 
